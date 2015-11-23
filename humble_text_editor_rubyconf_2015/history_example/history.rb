@@ -1,5 +1,5 @@
-# A class that wraps around the doubly linked list that stores the history,
-# maintains a pointer to the current step, and orchestrates undos and redos.
+# A class that wraps around the doubly linked list that stores the history to
+# maintain a pointer to the current step and orchestrate undos/redos.
 class History
   def initialize
     @current_step = EmptyStep.new
