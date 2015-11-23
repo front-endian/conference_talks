@@ -1,10 +1,10 @@
 # String Theory & Time Travel: The Humble Text Editor
 *This talk was given at RubyConf 2015*.
 
-- /humble\_text\_editor.pdf has all of the slides with some of the animations expanded into individual pages
-- /text\_editor\_talk.key.zip has the original Keynote file
-- /history\_example/ has an expanded version of the simple branched history implementation shown in the presentation
-  - /history\_example/demo.rb shows everything working
+- [humble\_text\_editor.pdf](humble\_text\_editor.pdf) has all of the slides with some of the animations expanded into individual pages
+- [text\_editor\_talk.key.zip](text\_editor\_talk.key.zip) has the original Keynote file
+- [history\_example](history\_example) has an expanded version of the simple branched history implementation shown in the presentation
+  - [demo.rb](history\_example/demo.rb) shows everything working
 
 I will be uploading more examples in the coming weeks.
 
