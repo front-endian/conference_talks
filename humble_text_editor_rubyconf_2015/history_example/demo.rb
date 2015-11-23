@@ -63,7 +63,7 @@ puts
 
 # Redo past the end of the history to show that it will go to
 # the last step in the history and then stop.
-puts "Undoing past the end:"
+puts "Redoing past the end:"
 p editor.redo_step.redo_step.redo_step.redo_step
         .redo_step.redo_step.redo_step.redo_step
         .content
